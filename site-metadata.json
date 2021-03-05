@@ -96,5 +96,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://super-celery-27090.netlify.app"
 }

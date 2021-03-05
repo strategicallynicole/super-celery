@@ -1,5 +1,5 @@
 ---
-title: Welcome to Libris
+title: Style Guide
 seo:
   type: stackbit_page_meta
   title: Welcome to Libris
